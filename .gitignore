@@ -1,0 +1,47 @@
+# Build directories
+build/
+cmake_build/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.cmake
+
+# Executables
+LiveFaceSwapper
+LiveFaceAnonymizer
+*.exe
+
+# Model files (large, download separately)
+models/
+*.onnx
+*.pt
+*.pth
+*.pb
+
+# Temporary files
+*.tmp
+*.log
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
