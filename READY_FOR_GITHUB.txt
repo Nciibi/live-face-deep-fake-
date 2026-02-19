@@ -86,7 +86,7 @@ Option 2: Manual Commands
 
 ═══════════════════════════════════════════════════════════════
 
-📊 PROJECT STATISTICS
+📊 PROJECT  STATISTICS
 
 Total Files:        30
 Source Code:        37KB (11 C++ files)
